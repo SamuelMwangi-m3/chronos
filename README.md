@@ -73,6 +73,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Contact
 
-Your Name - [@yourusername](https://twitter.com/yourusername) - email@example.com
+Your Name - [@TheTechKing01]([https://twitter.com/yourusername](https://x.com/TheTechKing01)) - elitechvijay@gmail.com
 
-Project Link: [https://github.com/yourusername/chronos](https://github.com/yourusername/chronos)
+Project Link: [https://github.com/SamuelMwangi-m3/chronos](https://github.com/SamuelMwangi-m3/chronos)
