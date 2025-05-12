@@ -1,0 +1,98 @@
+[
+  {
+    "time": "4:00\u20134:15 AM",
+    "activity": "Wake up, drink water, quick mindfulness (2\u20135 min breathing)",
+    "completed": true,
+    "notes": ""
+  },
+  {
+    "time": "4:15\u20135:00 AM",
+    "activity": "Workout (run/yoga/bodyweight)",
+    "completed": true,
+    "notes": ""
+  },
+  {
+    "time": "5:00\u20135:30 AM",
+    "activity": "Shower & get ready",
+    "completed": true,
+    "notes": ""
+  },
+  {
+    "time": "5:30\u20136:00 AM",
+    "activity": "Healthy breakfast + catch up on industry news/trends",
+    "completed": true,
+    "notes": ""
+  },
+  {
+    "time": "6:00\u20138:00 AM",
+    "activity": "Deep Work Block #1: Personal portfolio (design/code updates, write case studies)",
+    "completed": true,
+    "notes": ""
+  },
+  {
+    "time": "8:00\u20139:00 AM",
+    "activity": "Admin & day-to-day duties (emails, standup, quick fixes)",
+    "completed": false,
+    "notes": ""
+  },
+  {
+    "time": "9:00\u201312:00 PM",
+    "activity": "Deep Work Block #2: Fyna web-app development & brand identity design",
+    "completed": false,
+    "notes": ""
+  },
+  {
+    "time": "12:00\u20131:00 PM",
+    "activity": "Lunch break + short walk",
+    "completed": false,
+    "notes": ""
+  },
+  {
+    "time": "1:00\u20133:00 PM",
+    "activity": "Project Focus: Kiambu Expo prep (materials, reach-out)",
+    "completed": false,
+    "notes": ""
+  },
+  {
+    "time": "3:00\u20135:00 PM",
+    "activity": "Research & Learning: Trending tech/digital-strategy topics; jot notes",
+    "completed": false,
+    "notes": ""
+  },
+  {
+    "time": "5:00\u20136:00 PM",
+    "activity": "Wind-down admin: daily wrap-up, plan tomorrow, clear inbox",
+    "completed": false,
+    "notes": ""
+  },
+  {
+    "time": "6:00\u20137:00 PM",
+    "activity": "Dinner + family/friends time",
+    "completed": false,
+    "notes": ""
+  },
+  {
+    "time": "7:00\u20138:30 PM",
+    "activity": "Light Work or Creative Block: Brand design tweaks, social media content",
+    "completed": false,
+    "notes": ""
+  },
+  {
+    "time": "8:30\u20139:00 PM",
+    "activity": "Prepare for next day: review schedule, set top 3 priorities",
+    "completed": false,
+    "notes": ""
+  },
+  {
+    "time": "9:00\u20139:30 PM",
+    "activity": "Digital shutdown: read non-screen (book, journaling)",
+    "completed": false,
+    "notes": ""
+  },
+  {
+    "time": "10:00 PM",
+    "activity": "Lights out",
+    "completed": false,
+    "notes": ""
+  }
+]
